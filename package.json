@@ -1,0 +1,21 @@
+{
+  "name": "angular-schema-form-country-select",
+  "version": "1.0.0",
+  "description": "angular schema form country select add-on for Angular Schema Form.",
+  "author": "pvgnd",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.8",
+    "streamqueue": "^1.1.1",
+    "through2": "^2.0.3"
+  }
+}
